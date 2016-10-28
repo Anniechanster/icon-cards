@@ -1,0 +1,33 @@
+html {
+  font-family: sans-serif;
+}
+
+.card {
+  background-color: #fff;
+}
+
+a {
+  text-decoration: none;
+  border: 3px solid #000;
+  border-radius: .5rem;
+  display: inline-block;
+  color: #333;
+  text-align: center;
+}
+
+.btn {
+  color: #333;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 3px solid #333;
+  text-align: center;
+}
+
+.card:hover div {
+  background-color: #333;
+  color: #fff;
+}
+
+.card:hover {
+  background-color: #e6e6e6;
+}
